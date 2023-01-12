@@ -1,0 +1,30 @@
+Difference between Document and Windows Object
+----------------------------------------------
+
+1. Document object:
+
+    Document object which contains all the contents of a website like
+    (HTML, CSS, JAVASCRIPT), all to gether is called documnet object.
+
+     Document object has methods or functions like window object
+     but both work differently 
+       
+       
+
+
+2. Window object: 
+
+    Window object is the upmost layer of document object. Where all the
+    document files are loaded in Windows.When it loaded in window object
+    it comes document object.
+
+    Windows has many methods or functions like
+        1. Js complier
+        2. Width of screen
+        3. Height of screen
+        4. caches
+        5. Clear interval
+        6. Client information
+        7. Cookies
+
+<----------------------End--------------------------------------------->
